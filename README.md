@@ -1,8 +1,8 @@
 # swallowingspecialist.github.io
-Website for Information on Swallowing maintained by Mr Yoon Wai Lam from Speech Therapy Works, LLP Singapore.
+Website for Information on Swallowing maintained by Mr Yoon Wai Lam from [Speech Therapy Works, LLP Singapore.](http://speechtherapyworks.com.sg)
 
-> He also blogs at dysphagia.sg
+> He also blogs at [dysphagia.sg](https://dysphagia.sg)
 
-Information herein does not substitude professional evaluation and diagnosis. 
-More information will be added as time permits as Mr Yoon Wai Lam has quite a few clients to attend to and will only update when the opportunity arises. 
-Thank you for your kind understanding.
+This is only a temporary place holder for a website on Swallowing and CTAR
+
+Note:Information herein does not substitude professional evaluation and diagnosis. 
