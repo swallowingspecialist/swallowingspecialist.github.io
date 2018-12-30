@@ -5,7 +5,7 @@ Website for Information on Swallowing maintained by Mr Yoon Wai Lam from [Speech
 
 This is only a temporary place holder for a website on Swallowing and CTAR
 
-Note:Information herein does not substitude professional evaluation and diagnosis. 
+Note: Information herein does not substitude professional evaluation and diagnosis. 
 
 ![Image of speech therapist in action](http://speechtherapyworks.com.sg/images/STW3.jpg)
 
