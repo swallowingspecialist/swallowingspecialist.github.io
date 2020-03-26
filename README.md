@@ -7,7 +7,7 @@ This is only a temporary place holder for a website on Swallowing and CTAR.
 
 Note: Information herein does not substitude professional evaluation and diagnosis. 
 
-![Image of speech therapist in action](https://www.speechtherapyworks.com.sg/img/home-about-section.jpg =250x)
+Image of speech therapist in action <img src="https://www.speechtherapyworks.com.sg/img/home-about-section.jpg" style="width:50%" />
 
 > Mr WL Yoon, throughout his 15 years of practice, he has developed training programmes and conducted various workshops both local and overseas. He has trained many Speech Therapists and Speech Therapist students into conducting Clinical Bedside Swallowing Evaluation, Videofluoroscopy, Fiberoptic Endoscopic Evaluation of Swallowing and dysphagia management. He is often consulted upon by his peers and doctors for complex cases involving dysphagia. He also pioneered the running of the very first and only Prosthetic Speech and Swallowing Clinic (PSSR) in Singapore at [the National Dental Centre](https://www.ndcs.com.sg/Pages/Home.aspx) with a Consultant Prosthodontist. 
 
