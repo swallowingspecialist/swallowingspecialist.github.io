@@ -13,6 +13,6 @@ Image of speech therapist in action <img src="https://www.speechtherapyworks.com
 
 >Wai Lam has assisted [St Luke’s Hospital](http://www.slh.org.sg/wp/) into setting up FEES (Fiberoptic Endoscopic Evaluation of Swallowing) services. St Luke’s Hospital is the first Community Hospital to provide FEES services in Singapore.
 
-Mr Yoon did a poster presentation on [S-CTAR (Swallow with CTAR) at the DRS 2017](https://dysphagia.sg/2017/04/06/swallow-with-ctar-s-ctar-poster-presented-at-drs-2017-portland-oregon/) at Portland, Oregon. Read more about it at https://dysphagia.sg/2017/04/06/swallow-with-ctar-s-ctar-poster-presented-at-drs-2017-portland-oregon/
+Mr Yoon did a poster presentation on [S-CTAR (Swallow with CTAR) at the DRS 2017](https://dysphagia.sg/2017/04/06/swallow-with-ctar-s-ctar-poster-presented-at-drs-2017-portland-oregon/) at Portland, Oregon. Read more about it at [Poster Presentation](https://dysphagia.sg/2017/04/06/swallow-with-ctar-s-ctar-poster-presented-at-drs-2017-portland-oregon/)
 
 
