@@ -1,6 +1,6 @@
 # swallowingspecialist.github.io
 
-<img src="https://singaporeswallowingspecialists.files.wordpress.com/2020/04/sss-logo-2.jpg" style="width:30%" />
+![](https://singaporeswallowingspecialists.files.wordpress.com/2020/04/sss-logo-2.jpg =250)
 
 Website for Information on Swallowing maintained by Mr Yoon Wai Lam from [Speech Therapy Works, LLP Singapore.](http://speechtherapyworks.com.sg)
 
