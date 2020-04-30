@@ -2,6 +2,7 @@
 
 ![](https://singaporeswallowingspecialists.files.wordpress.com/2020/04/sss-logo-2.jpg=300)
 <img src="https://singaporeswallowingspecialists.files.wordpress.com/2020/04/sss-logo-2.jpg" style="width:20%" />
+<img src="swallow-red.jpg" />
 
 Website for Information on Swallowing maintained by Mr Yoon Wai Lam from [Speech Therapy Works, LLP Singapore.](http://speechtherapyworks.com.sg)
 
