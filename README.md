@@ -1,4 +1,7 @@
 # swallowingspecialist.github.io
+
+<img src="https://singaporeswallowingspecialists.files.wordpress.com/2020/04/sss-logo-2.jpg" style="width:30%" />
+
 Website for Information on Swallowing maintained by Mr Yoon Wai Lam from [Speech Therapy Works, LLP Singapore.](http://speechtherapyworks.com.sg)
 
 > He also blogs at [dysphagia.sg](https://dysphagia.sg) when time permits. He has many cases to see and enjoys working with patients to improve their swallowing. 
@@ -7,7 +10,7 @@ This is only a temporary place holder for a website on Swallowing and CTAR.
 
 Note: Information herein does not substitude professional evaluation and diagnosis. 
 
-Image of speech therapist in action <img src="https://www.speechtherapyworks.com.sg/img/home-about-section.jpg" style="width:50%" />
+Image of speech therapist in action <img src="https://www.speechtherapyworks.com.sg/img/home-about-section.jpg" style="width:30%" />
 
 > Mr WL Yoon, throughout his 15 years of practice, he has developed training programmes and conducted various workshops both local and overseas. He has trained many Speech Therapists and Speech Therapist students into conducting Clinical Bedside Swallowing Evaluation, Videofluoroscopy, Fiberoptic Endoscopic Evaluation of Swallowing and dysphagia management. He is often consulted upon by his peers and doctors for complex cases involving dysphagia. He also pioneered the running of the very first and only Prosthetic Speech and Swallowing Clinic (PSSR) in Singapore at [the National Dental Centre](https://www.ndcs.com.sg/Pages/Home.aspx) with a Consultant Prosthodontist. 
 
